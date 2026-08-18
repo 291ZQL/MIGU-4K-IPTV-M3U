@@ -1,14 +1,14 @@
 ## 4K-IPTV-M3U
 
 基于组播源的省级直播列表仓库，按省份自动生成 `m3u/txt` 文件，并在 README 中展示可直接使用的加速下载链接。
-### 咪咕源 实时更新 https://gh-proxy.org/https://github.com/291zql/lemonTV/blob/main/iptv-fe.m3u
+### 咪咕源 实时更新 https://gh-proxy.org/https://github.com/291ZQL/lemonTV/blob/main/iptv-fe.m3u
 ### 相关播放器项目
 
 - 纯直播 APP: [lemonTV](https://github.com/jia070310/lemonTV)
 - 影视+直播集合版: [lomenTV-VDS](https://github.com/jia070310/lomenTV-VDS)
-- Windows 直播播放器: [lemonIPTV-windows](https://github.com/jia070310/lemonIPTV-windows)
+- Windows 直播播放器: [lemonIPTV-windows](https://github.com/291ZQL/lemonIPTV-windows)
 
-![预览图](https://github.com/291ZQL/MIGU-/4K-IPTV-M3U/blob/main/tv.png)
+![预览图](https://github.com/291ZQL/MIGU-4K-IPTV-M3U/blob/main/tv.png)
 
 ### 仓库内容
 
